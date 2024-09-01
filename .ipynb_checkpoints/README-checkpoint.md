@@ -73,7 +73,7 @@ Categorical Data: Includes 'Country' names and Regions, which may require encodi
 ## Models Evaluation
 
 #### 1. Address Class Imbalance:
-Observation: The Decision Tree model showed high accuracy (86.1%) but struggled with minority classes, such as "Forced Labor," where it achieved low precision (0.29) and recall (1.00). This suggests the model may be overfitting to the majority classes.
+Observation: The Decision Tree model showed high accuracy (90.7%) but struggled with minority classes, such as "Forced Labor," where it achieved a medium precision (0.67) and recall (1.00). This suggests the model may be overfitting to the majority classes.
 
 Recommendation: Implement techniques like SMOTE (Synthetic Minority Over-sampling Technique) or class-weight adjustments to better balance the dataset. This can help models better identify and predict minority classes, improving overall model performance, especially for underrepresented categories.
 
