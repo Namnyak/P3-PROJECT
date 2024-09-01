@@ -59,16 +59,16 @@ Categorical Data: Includes 'Country' names and Regions, which may require encodi
 ## CLASSIFICATION MODELS
 
 ### A plot of Logistic regressin Confusion matrix
-![png](8.png)
-
-### Plotting ROC Curve for Logistic regression
 ![png](9.png)
 
-## Confusion Matrix for Decision Tree
+### Plotting ROC Curve for Logistic regression
 ![png](10.png)
 
-### A plot of a Decision Tree
+## Confusion Matrix for Decision Tree
 ![png](11.png)
+
+### A plot of a Decision Tree
+![png](12.png)
 
 ## Models Evaluation
 
