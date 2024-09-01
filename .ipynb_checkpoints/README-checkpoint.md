@@ -6,11 +6,14 @@ The purpose of this analysis is to provide actionable insights for combating mod
 # Business Understanding
 The primary objective of analyzing the Global Slavery Index (GSI) dataset is to develop a classification model that accurately categorizes countries based on their vulnerability to different types of modern slavery, specifically forced labor, human trafficking, and child exploitation. This classification will enable stakeholders to identify and prioritize regions where specific interventions are most needed, thereby contributing to more effective and targeted efforts in combating modern slavery globally.
 
-Stakeholders:
+#### Stakeholders:
 
 1.Non-Governmental Organizations (NGOs): NGOs that are focused on human rights and anti-slavery initiatives will benefit from the classification model by gaining insights into where their efforts can have the most impact, allowing them to tailor interventions to the specific types of slavery prevalent in different regions.
+
 2.Governments and Policy Makers: Governments can use the classification results to enhance their policy frameworks, strengthen law enforcement, and allocate resources more efficiently
+
 3.International Bodies (e.g., United Nations, International Labour Organization): These organizations can use the model's outputs to monitor global trends, coordinate international responses, and support countries in addressing their specific modern slavery challenges.
+
 4.Academics and Researchers: Scholars studying modern slavery can use the classification as a foundation for further research into the causes and solutions for different types of modern slavery.
 
 # Data Understanding
@@ -18,15 +21,10 @@ The Global Slavery Index (GSI) dataset provides detailed data on modern slavery,
 
 ### Source of the data
 The data for the Global Slavery Index is sourced from multiple authoritative bodies and research organizations, including but not limited to:
-
 1.Walk Free Foundation: The primary organization behind the Global Slavery Index, which conducts extensive research and data collection on modern slavery.
-
 2.International Labour Organization (ILO): Provides estimates and data on forced labor and other forms of modern slavery.
-
 3.United Nations (UN): Offers data on human trafficking and child exploitation through various UN agencies.
-
 4.World Bank: Supplies demographic and socio-economic indicators such as population, inequality, and governance.
-
 5.National Surveys: Data collected from national-level surveys conducted in various countries to assess vulnerability to modern slavery.
 
 These sources are integrated into the GSI dataset, ensuring that the data reflects a wide range of reliable inputs, though it's important to note that data collection methods may vary across countries.
