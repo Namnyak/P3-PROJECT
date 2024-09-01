@@ -20,9 +20,13 @@ The Global Slavery Index (GSI) dataset provides detailed data on modern slavery,
 The data for the Global Slavery Index is sourced from multiple authoritative bodies and research organizations, including but not limited to:
 
 1.Walk Free Foundation: The primary organization behind the Global Slavery Index, which conducts extensive research and data collection on modern slavery.
+
 2.International Labour Organization (ILO): Provides estimates and data on forced labor and other forms of modern slavery.
+
 3.United Nations (UN): Offers data on human trafficking and child exploitation through various UN agencies.
+
 4.World Bank: Supplies demographic and socio-economic indicators such as population, inequality, and governance.
+
 5.National Surveys: Data collected from national-level surveys conducted in various countries to assess vulnerability to modern slavery.
 
 These sources are integrated into the GSI dataset, ensuring that the data reflects a wide range of reliable inputs, though it's important to note that data collection methods may vary across countries.
@@ -49,13 +53,16 @@ Categorical Data: Includes 'Country' names and Regions, which may require encodi
 
 ![png](4.png)
 
-## MODELS
+## CLASSIFICATION MODELS
 
 ### A plot of Logistic regressin Confusion matrix
 ![png](5.png)
 
 ### Plotting ROC Curve for Logistic regression
 ![png](6.png)
+
+## Confusion Matrix for Decision Tree
+![png](8.png)
 
 ### A plot of a Decision Tree
 ![png](7.png)
